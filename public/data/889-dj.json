@@ -1,6 +1,6 @@
 {
   "name": "Dev Jain",
-  "bio": "I am Dev, a sophomore and pursuing my bachelor's in Computer Science from MITS gwalior. I am interested in web technologies and im an open source enthusiast. I am open to collaborate to projects and innovative/creative ideas.",
+  "bio": "I am Dev, a junior pusuing my B.tech in computer science . i am a frontend developrer, UI/UX designer, open-source and community lover and a tech blogger i m committed to life long learning and i love making beautiful websites.",
   "avatar": "https://github.com/889-dj.png",
   "links": [
     {
@@ -12,6 +12,32 @@
       "name": "Follow me on Twitter",
       "url": "https://twitter.com/Devjtwt786",
       "icon": "twitter"
+    },
+    {
+      "name": "join my instagram community",
+      "url": "https://www.instagram.com/webdevguy2022",
+      "icon": "instagram"
+    },
+    {
+      "name": "connect with me on linkedin",
+      "url": "https://www.linkedin.com/in/dev-jain-a26654177",
+      "icon": "linkedin"
+    },
+    {
+      "name": "read my blogs on Hashnode",
+      "url": "https://dj688.hashnode.dev/",
+      "icon": "hashnode"
     }
+  ]
+}
+
+"milestones": [
+    {
+      "title": "codedamn envangelist",
+      "date": "March 2022",
+      "icon": "dollar",
+      "color": "grey",
+      "description": "Started envangelism spread the word about codedamn in my campus & conducted a hackathon with codedamn as a sponsor"
+    },
   ]
 }
